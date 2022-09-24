@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a6a8062db92c60b4eb3eb61e74f02704
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PiecePrefab: {instanceID: 0}
+  - winText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
